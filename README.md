@@ -1,2 +1,3 @@
-# OmnichainToken
-LayerZero Omnichain token
+# My Omnichain Token
+
+This project demonstrates an OmniChain Token.
