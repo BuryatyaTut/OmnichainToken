@@ -1,0 +1,2 @@
+# OmnichainToken
+LayerZero Omnichain token
